@@ -3,7 +3,7 @@
     👋 Hello World! I'm Miguel 👨‍💻
   </h1> 
   <p>
-    I'm a Software Engineering student at The University of Auckland, passionate about using code to make a positive impact. My GitHub showcases both personal projects and university work, documenting my growth and journey as a developer. I'm always eager to learn, explore new technologies, and contribute to meaningful projects.
+    I'm a Software Engineering student at The University of Auckland, passionate about using code to make a positive impact! My GitHub showcases both personal projects and university work, documenting my growth and journey as a developer. I'm always eager to learn, explore new technologies, and contribute to meaningful projects.
   </p>
 </div>
 <div>
