@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-bal)](https://github.com/miguel-bal/github-readme-stats)
   <h2>
     Get in touch
   </h2>
